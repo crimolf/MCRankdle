@@ -1,4 +1,4 @@
-# MCRankdle 🎮
+# MCRankdle
 
 **Daily rank-guessing game for the gaming community.**  
 Can you guess the rank of other players just by watching their gameplay?
