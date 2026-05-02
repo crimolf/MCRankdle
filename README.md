@@ -8,8 +8,8 @@
 ---
 
 ## 📸 Screenshots
-<p align="center">
-  <img alt="home" src="https://github.com/user-attachments/assets/44052a55-1f15-4103-9847-e05ee48138b4" width="400"/>
+<p align="left">
+  <img alt="home" src="https://github.com/user-attachments/assets/44052a55-1f15-4103-9847-e05ee48138b4" width="600"/>
 </p>
 
 ---
