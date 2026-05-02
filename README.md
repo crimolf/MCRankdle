@@ -11,6 +11,9 @@
 <!-- Replace with your actual screenshots -->
 ![MCRankdle Demo](./screenshots/demo.gif)
 
+<img width="1817" height="944" alt="image" src="https://github.com/user-attachments/assets/44052a55-1f15-4103-9847-e05ee48138b4" />
+
+
 ---
 
 ## ✨ Features
