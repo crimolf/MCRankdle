@@ -2,17 +2,15 @@
 
 **Rank-guessing game for MCSR.**  
 
-🔗 **Live at [mcrankdle.com](https://mcrankdle.com)**
+> 🌐 **Live on** [mcrankdle.com](https://mcrankdle.com)
+
 
 ---
 
 ## 📸 Screenshots
-
-<!-- Replace with your actual screenshots -->
-![MCRankdle Demo](./screenshots/demo.gif)
-
-<img width="1817" height="944" alt="image" src="https://github.com/user-attachments/assets/44052a55-1f15-4103-9847-e05ee48138b4" />
-
+<p align="center">
+  <img alt="home" src="https://github.com/user-attachments/assets/44052a55-1f15-4103-9847-e05ee48138b4" width="400"/>
+</p>
 
 ---
 
